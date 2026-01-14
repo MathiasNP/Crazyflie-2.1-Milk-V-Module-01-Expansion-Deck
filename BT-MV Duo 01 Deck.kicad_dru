@@ -1,0 +1,21 @@
+(version 1)
+
+(rule "MIPI0_pair5_PN_match"
+  (condition "A.NetName=='MIPI0_DP5' || A.NetName=='MIPI0_DN5'")
+  (constraint skew (max 0.10mm))
+)
+
+(rule "MIPI0_pair4_PN_match"
+  (condition "A.NetName=='MIPI0_DP4' || A.NetName=='MIPI0_DN4'")
+  (constraint skew (max 0.10mm))
+)
+
+(rule "MIPI0_pair3_PN_match"
+  (condition "A.NetName=='MIPI0_DP3' || A.NetName=='MIPI0_DN3'")
+  (constraint skew (max 0.10mm))
+)
+
+(rule "MIPI0_all_lanes_equal"
+  (condition "A.NetName=='MIPI0_DP5' || A.NetName=='MIPI0_DN5' || A.NetName=='MIPI0_DP4' || A.NetName=='MIPI0_DN4' || A.NetName=='MIPI0_DP3' || A.NetName=='MIPI0_DN3'")
+  (constraint skew (max 0.10mm))
+)

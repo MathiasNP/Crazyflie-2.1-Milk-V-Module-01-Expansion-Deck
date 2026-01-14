@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BT-Milk V Duo S")(type "KiCad")(uri "${KIPRJMOD}/BT-Milk V Duo S.pretty")(options "")(descr ""))
+)

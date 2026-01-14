@@ -1,0 +1,907 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "1a0d6a7c-3626-4ee9-9e20-350d70552111")
+	(paper "A4")
+	(title_block
+		(title "BT-MV Duo 01 Deck")
+		(date "4.11.2025")
+		(rev "A")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 187.96 99.06) (xy 198.12 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0587f7a3-e97e-431d-afc7-e9c4ea0972e5")
+	)
+	(wire
+		(pts
+			(xy 187.96 62.23) (xy 198.12 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ae4b6d5-4fc5-4e60-9daa-5da43205341a")
+	)
+	(wire
+		(pts
+			(xy 82.55 72.39) (xy 105.41 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e4a53b9-cd22-4a3d-aa3d-1492973dd9ce")
+	)
+	(wire
+		(pts
+			(xy 187.96 68.58) (xy 198.12 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13a97de8-94a7-4489-9966-e0f66e23a7e5")
+	)
+	(wire
+		(pts
+			(xy 82.55 68.58) (xy 105.41 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13f903df-7dd1-4028-ae1e-5da39b21f66e")
+	)
+	(wire
+		(pts
+			(xy 187.96 59.69) (xy 198.12 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "153f9831-d6d7-4238-b64e-3f596f0db5ef")
+	)
+	(wire
+		(pts
+			(xy 82.55 99.06) (xy 105.41 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3289318b-8766-4b3f-be5a-dcc28cc1c0bd")
+	)
+	(wire
+		(pts
+			(xy 82.55 86.36) (xy 105.41 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34cf17d4-efd5-4794-9dbb-a11aa5ea0f54")
+	)
+	(wire
+		(pts
+			(xy 82.55 88.9) (xy 105.41 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aacbde5-3fe4-46a6-8b5e-bff57d7b5518")
+	)
+	(wire
+		(pts
+			(xy 82.55 104.14) (xy 105.41 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b56de49-3697-495d-ac48-337e40fed0f6")
+	)
+	(wire
+		(pts
+			(xy 187.96 106.68) (xy 198.12 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d7c9d45-3562-45b4-86c5-d24b25e10ee7")
+	)
+	(wire
+		(pts
+			(xy 187.96 66.04) (xy 198.12 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4add8645-317e-421f-813a-a08e696d5e89")
+	)
+	(wire
+		(pts
+			(xy 82.55 63.5) (xy 105.41 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59e2eefa-7f5b-4248-8d90-b245a8d41897")
+	)
+	(wire
+		(pts
+			(xy 187.96 53.34) (xy 198.12 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d4cc87f-0b27-45ed-8477-ee2d1defd227")
+	)
+	(wire
+		(pts
+			(xy 187.96 109.22) (xy 198.12 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63e0d5c2-a546-47b1-aa84-201049f88d09")
+	)
+	(wire
+		(pts
+			(xy 187.96 116.84) (xy 198.12 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6920e47c-8b7b-4552-ad1f-f3e0830d6a27")
+	)
+	(wire
+		(pts
+			(xy 82.55 77.47) (xy 105.41 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90cd3cdf-38d8-4da6-b4e1-aa198628abdb")
+	)
+	(wire
+		(pts
+			(xy 187.96 96.52) (xy 198.12 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91f4bc39-9d4e-45d0-a628-299dee22baad")
+	)
+	(wire
+		(pts
+			(xy 82.55 66.04) (xy 105.41 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1d20215-e734-4f87-b7ab-fb5a885a876d")
+	)
+	(wire
+		(pts
+			(xy 187.96 121.92) (xy 198.12 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be2b3d57-d718-42fb-b304-22e8969cf680")
+	)
+	(wire
+		(pts
+			(xy 187.96 114.3) (xy 198.12 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c05ae6ab-60ff-4151-a0df-18b7ab025330")
+	)
+	(wire
+		(pts
+			(xy 82.55 83.82) (xy 105.41 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1058aa2-b1fc-4da0-812e-af3a23748f12")
+	)
+	(wire
+		(pts
+			(xy 82.55 60.96) (xy 105.41 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8d27df5-5b11-45eb-8023-b1f44e642e4c")
+	)
+	(wire
+		(pts
+			(xy 187.96 55.88) (xy 198.12 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e91565b9-06b4-4bf6-8f16-f44dcfe5330d")
+	)
+	(sheet
+		(at 198.12 91.44)
+		(size 25.4 53.975)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "065e4c06-7db1-46c1-86bb-27c3c72e46cd")
+		(property "Sheetname" "CF Proto EXP"
+			(at 198.12 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cfproto.kicad_sch"
+			(at 198.12 145.9996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "XGPIOB_12" input
+			(at 198.12 99.06 180)
+			(uuid "5c13acd0-940a-45b3-b8d1-84a0c90f151d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "XGPIOB_11" input
+			(at 198.12 96.52 180)
+			(uuid "3cc9fe2a-1456-4d2f-9047-8d6096240ddc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART0_RX" output
+			(at 198.12 106.68 180)
+			(uuid "7184a119-7f84-49d4-bf8a-03674eb125da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART0_TX" input
+			(at 198.12 109.22 180)
+			(uuid "ce284cdd-2642-48dd-93a5-d55c23d0b5c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DN" input
+			(at 198.12 114.3 180)
+			(uuid "f76d2c94-b949-4879-b80e-a1aa19527e13")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" input
+			(at 198.12 116.84 180)
+			(uuid "5a14a57a-b712-4095-bb8e-0a4bd4ff0015")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS_DET" output
+			(at 198.12 121.92 180)
+			(uuid "b89ce645-596b-4f98-b24c-edacb062a1f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "BT-MV Duo 01 Deck"
+				(path "/1a0d6a7c-3626-4ee9-9e20-350d70552111"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 58.42)
+		(size 24.13 47.625)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b6b5692-3833-400d-a3d1-3e19749fc602")
+		(property "Sheetname" "SD Card"
+			(at 58.42 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BT-LCD&TF.kicad_sch"
+			(at 58.42 106.6296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ARM_RISV_SWITCH" input
+			(at 82.55 86.36 0)
+			(uuid "6de603f9-26a4-4236-aabc-a44d9ef82976")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_SD0_CD" output
+			(at 82.55 99.06 0)
+			(uuid "95efc352-273f-49aa-8e68-cc7cd0b9e8d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWR_VBAT_DET" input
+			(at 82.55 83.82 0)
+			(uuid "8c614912-d118-4a03-ad1a-e1cd35c1d2f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_SD0_CMD" input
+			(at 82.55 77.47 0)
+			(uuid "c25d28e3-da67-4948-be57-6cde7d491915")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_SD0_D1" input
+			(at 82.55 63.5 0)
+			(uuid "2bc566e6-8814-4493-bff8-bca91c3482a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_SD0_D3" input
+			(at 82.55 68.58 0)
+			(uuid "7ba8d401-9c39-4bd4-a07c-7ea2b2b95eaf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "XGPIOA_29" input
+			(at 82.55 88.9 0)
+			(uuid "31e521a4-149d-490a-8e56-aad956dfbecb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UPDATE" output
+			(at 82.55 104.14 0)
+			(uuid "bafa828c-97ca-40bc-89c9-99e49162678a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_SD0_D2" input
+			(at 82.55 66.04 0)
+			(uuid "e7898d83-2593-442e-b5ce-86508f07f42b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_SD0_D0" input
+			(at 82.55 60.96 0)
+			(uuid "bfffa13a-cfda-407c-930d-810c677854fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_SD0_CLK" input
+			(at 82.55 72.39 0)
+			(uuid "612f7bc3-e4e3-4bed-8301-18ce135ae9e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BT-MV Duo 01 Deck"
+				(path "/1a0d6a7c-3626-4ee9-9e20-350d70552111"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 48.26)
+		(size 24.13 36.195)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c49b283-3340-4558-b187-b6cbd4190a7f")
+		(property "Sheetname" "Camera OV"
+			(at 198.12 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OV5674.kicad_sch"
+			(at 198.12 85.0396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MIPI0_DN4" output
+			(at 198.12 62.23 180)
+			(uuid "5d2e4096-34e7-43fc-b99a-a9c9ffe100f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI0_DP3" output
+			(at 198.12 53.34 180)
+			(uuid "da40ca01-1ba9-42ff-998e-6c80f7643928")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI0_DP5" output
+			(at 198.12 66.04 180)
+			(uuid "c9a80c7d-ee3e-439a-bb91-92da1f710be9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI0_DN3" output
+			(at 198.12 55.88 180)
+			(uuid "f82f6464-38a6-4eac-b5ea-a3082a23e99c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI0_DN5" output
+			(at 198.12 68.58 180)
+			(uuid "2000c42e-cbaf-4309-bae6-95fc98607979")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI0_DP4" output
+			(at 198.12 59.69 180)
+			(uuid "3232080e-569c-40a4-bc69-1f1c4531250a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "BT-MV Duo 01 Deck"
+				(path "/1a0d6a7c-3626-4ee9-9e20-350d70552111"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 48.26)
+		(size 82.55 97.79)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbfd537b-03af-4d0e-85f5-b93ca3581ed9")
+		(property "Sheetname" "Milk Module"
+			(at 105.41 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BT-MMDuo.kicad_sch"
+			(at 105.41 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ARM_RISV_SWITCH" output
+			(at 105.41 86.36 180)
+			(uuid "dca415e1-5158-4fcf-9b30-be424bcb9777")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_SD0_D1" bidirectional
+			(at 105.41 63.5 180)
+			(uuid "25b00d24-5ba0-4579-81a0-7c0a3607f329")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_SD0_CMD" output
+			(at 105.41 77.47 180)
+			(uuid "627096ca-02b5-4583-8e11-3603759f6d21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UPDATE" input
+			(at 105.41 104.14 180)
+			(uuid "06cf9b63-7d58-4ded-9474-e469a16c8e54")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_SD0_CLK" output
+			(at 105.41 72.39 180)
+			(uuid "48b3fcd5-5f81-4575-a8ab-7613886e29fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_SD0_CD" input
+			(at 105.41 99.06 180)
+			(uuid "54aa7847-c11b-4be1-81de-c6fe7c3f6887")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWR_VBAT_DET" output
+			(at 105.41 83.82 180)
+			(uuid "698186e7-a334-41c2-a2bc-bea707df1f21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_SD0_D2" bidirectional
+			(at 105.41 66.04 180)
+			(uuid "8bb0ec86-7055-4d63-b88f-b86e3efccb1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_SD0_D3" bidirectional
+			(at 105.41 68.58 180)
+			(uuid "e5362778-3a89-4701-9990-057f0114aeb2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_SD0_D0" bidirectional
+			(at 105.41 60.96 180)
+			(uuid "04e6e423-13ae-44fd-8cc7-802996dc1962")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "XGPIOA_29" output
+			(at 105.41 88.9 180)
+			(uuid "0e41c498-17d3-4e7b-b2d9-50f1aa6963bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "XGPIOB_11" output
+			(at 187.96 96.52 0)
+			(uuid "cab50b7f-029d-4617-935e-7083576794f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "XGPIOB_12" output
+			(at 187.96 99.06 0)
+			(uuid "7b0cf791-955b-452b-be9a-c1e897341d97")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIPI0_DP4" input
+			(at 187.96 59.69 0)
+			(uuid "47831320-8c96-447e-a67d-f0d2d14c58e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIPI0_DN4" input
+			(at 187.96 62.23 0)
+			(uuid "d97165d8-c256-4d3d-a225-a92017472476")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIPI0_DP5" input
+			(at 187.96 66.04 0)
+			(uuid "090f7f96-60c7-481d-8dba-288afe6160ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIPI0_DN3" input
+			(at 187.96 55.88 0)
+			(uuid "342c7ceb-0c3f-468c-aaea-a46245fbba10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIPI0_DN5" input
+			(at 187.96 68.58 0)
+			(uuid "94af40cd-b3ae-400c-9f74-c4dfde19411f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MIPI0_DP3" input
+			(at 187.96 53.34 0)
+			(uuid "2c76929a-8bbf-4e57-9fe7-0b1bc8e6595e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART0_RX" input
+			(at 187.96 106.68 0)
+			(uuid "5cec4b98-6960-47e9-a1cf-36ce194218a1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART0_TX" output
+			(at 187.96 109.22 0)
+			(uuid "239cf26c-eee2-4935-ac0e-a10ccf5c4a28")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DN" output
+			(at 187.96 114.3 0)
+			(uuid "c1a83650-45a3-49ff-8d5d-f4b730401797")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VBUS_DET" input
+			(at 187.96 121.92 0)
+			(uuid "8f8f873c-618c-4c54-8d42-380abc1cbf46")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DP" output
+			(at 187.96 116.84 0)
+			(uuid "fea43624-3d8f-4756-bdc3-068496cf52dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BT-MV Duo 01 Deck"
+				(path "/1a0d6a7c-3626-4ee9-9e20-350d70552111"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
