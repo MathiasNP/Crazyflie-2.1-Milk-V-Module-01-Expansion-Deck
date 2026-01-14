@@ -1,0 +1,238 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "DF30FC-24DS-0.4V_82_" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom))
+    )
+    (property "Value" "DF30FC-24DS-0.4V_82_" (id 1) (at 0 0.0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom))
+    )
+    (property "Footprint" "DF30FC-24DS-0.4V_82_:DF30FC-24DS" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Hirose Electric" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            24 Position Connector Receptacle, Outer Shroud Contacts Surface Mount Gold\n                        \n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/DF30FC-24DS-0.4V(82)/Hirose/view-part/?ref=snap" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "DF30FC-24DS-0.4V(82)" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/DF30FC-24DS-0.4V(82)/Hirose/view-part/?ref=eda" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "DF30FC-24DS-0.4V_82__0_0"
+      (text ">NAME" (at -5.08 -20.32 0)
+        (effects (font (size 2.54 2.54)) (justify bottom left))
+      )
+      (rectangle (start -15.24 -22.86) (end 7.62 20.32)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin bidirectional line (at -20.32 15.24 0) (length 5.08)
+        (name "P$1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 12.7 0) (length 5.08)
+        (name "P$2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 10.16 0) (length 5.08)
+        (name "P$3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 7.62 0) (length 5.08)
+        (name "P$4"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 5.08 0) (length 5.08)
+        (name "P$5"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 2.54 0) (length 5.08)
+        (name "P$6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 0.0 0) (length 5.08)
+        (name "P$7"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 -2.54 0) (length 5.08)
+        (name "P$8"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 -5.08 0) (length 5.08)
+        (name "P$9"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 -7.62 0) (length 5.08)
+        (name "P$10"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 -10.16 0) (length 5.08)
+        (name "P$11"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -20.32 -12.7 0) (length 5.08)
+        (name "P$12"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 15.24 180.0) (length 5.08)
+        (name "P$13"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 12.7 180.0) (length 5.08)
+        (name "P$14"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 10.16 180.0) (length 5.08)
+        (name "P$15"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 7.62 180.0) (length 5.08)
+        (name "P$16"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 5.08 180.0) (length 5.08)
+        (name "P$17"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$17"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 2.54 180.0) (length 5.08)
+        (name "P$18"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$18"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 0.0 180.0) (length 5.08)
+        (name "P$19"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$19"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 -2.54 180.0) (length 5.08)
+        (name "P$20"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$20"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 -5.08 180.0) (length 5.08)
+        (name "P$21"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$21"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 -7.62 180.0) (length 5.08)
+        (name "P$22"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$22"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 -10.16 180.0) (length 5.08)
+        (name "P$23"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$23"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 12.7 -12.7 180.0) (length 5.08)
+        (name "P$24"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$24"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
