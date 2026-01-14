@@ -1,0 +1,372 @@
+(footprint "DF30FC-24DS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U7"
+		(at 2.1325 -2.08 90)
+		(layer "F.SilkS")
+		(uuid "9885747a-87f5-406d-bc2d-558ed967bd02")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.05)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "DF30FC-24DS-0.4V_82_"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ed12858-c214-4b07-a572-9ef0ab78d152")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7db4500-f61e-41cf-8b55-074df612c648")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e23b5fa0-f8f0-4a8d-81d2-121636587908")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Hirose Electric"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e33c90d-bf67-4b3b-90e3-218941f66ef2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "24 Position Connector Receptacle, Outer Shroud Contacts Surface Mount Gold"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d1478852-2d60-4272-a450-f0f574f8c0ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "302f16e5-b851-4552-be00-ce533b8eb80d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c2312d2-8f0f-4952-a32f-4bdfbafaef20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/DF30FC-24DS-0.4V(82)/Hirose/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1c88de0-3746-4479-83ca-a7af762d7249")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "DF30FC-24DS-0.4V(82)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7022f04f-3a30-4501-bc0e-068c1ba0fcde")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae56cc61-6a0f-43ce-a0d6-b87f5fe54e11")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/DF30FC-24DS-0.4V(82)/Hirose/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d97b7a25-a1bc-4662-824b-3b17f42ecda5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "1"
+		(at 4.45 -0.97 90)
+		(layer "Dwgs.User")
+		(uuid "4da3d414-2df3-4dd3-90a6-c4ee3582743b")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "24"
+		(at 4.34 -3.04 90)
+		(layer "Dwgs.User")
+		(uuid "622605d0-7cc2-462b-b319-947620d32be4")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "12"
+		(at 0.05 -1.08 90)
+		(layer "Dwgs.User")
+		(uuid "a98b0f3f-3020-4995-819a-79261c93c9f0")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "13"
+		(at 0.04 -3.12 90)
+		(layer "Dwgs.User")
+		(uuid "d305197a-5028-40fa-a4fd-34f0a7d58924")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 4.4 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "9cc15ea9-1c1e-46bf-9dfc-66e845a66cd5")
+	)
+	(pad "2" smd rect
+		(at 4 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "4886b9e3-e222-4a2f-8626-39d31cbeb8e6")
+	)
+	(pad "3" smd rect
+		(at 3.6 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "016d3ea2-00e5-4437-99cc-9eef872b32f5")
+	)
+	(pad "4" smd rect
+		(at 3.2 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "fb44b200-b813-481d-80f8-0ef552d183b6")
+	)
+	(pad "5" smd rect
+		(at 2.8 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "3daaf028-5e07-4a2e-82e3-846f72d4cedd")
+	)
+	(pad "6" smd rect
+		(at 2.4 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "c8853657-af3f-451b-a6ac-bd75ba4c1d75")
+	)
+	(pad "7" smd rect
+		(at 2 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "f5c11b2a-b7dc-4f4d-99f3-6e3046f86a57")
+	)
+	(pad "8" smd rect
+		(at 1.6 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "99f41b33-64d9-4f96-8544-0c0978ed3d0c")
+	)
+	(pad "9" smd rect
+		(at 1.2 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "e8540333-5276-4173-94e7-1b571e9e09c7")
+	)
+	(pad "10" smd rect
+		(at 0.8 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "c404857f-89bb-4834-9dd1-a3889c9c2767")
+	)
+	(pad "11" smd rect
+		(at 0.4 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "e6e26e95-6a52-4be1-8ac7-6570ea737e09")
+	)
+	(pad "12" smd rect
+		(at 0 0)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "487fed1b-3dfe-4a2a-9b9f-f0b083a8a0a3")
+	)
+	(pad "13" smd rect
+		(at 0 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "4970d98f-17cf-41e2-9c90-77452f35a5aa")
+	)
+	(pad "14" smd rect
+		(at 0.4 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "c2098619-ae0d-44fb-9077-1fc0f8465c3f")
+	)
+	(pad "15" smd rect
+		(at 0.8 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "da852435-bfeb-4380-9ada-54b297cd4ef5")
+	)
+	(pad "16" smd rect
+		(at 1.2 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "16404aec-9503-4ec1-8c54-7b3feb5750f9")
+	)
+	(pad "17" smd rect
+		(at 1.6 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "b92ab0d3-7bf0-4d60-8595-288c12872d29")
+	)
+	(pad "18" smd rect
+		(at 2 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "7f4088e2-8476-49cb-b2a9-b23e8203e864")
+	)
+	(pad "19" smd rect
+		(at 2.4 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "aa5c69f2-deaf-45c5-9f6c-d53c0325a583")
+	)
+	(pad "20" smd rect
+		(at 2.8 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "c76a6a79-2bb1-40cb-b219-f9cd5d6329a3")
+	)
+	(pad "21" smd rect
+		(at 3.2 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "75923e9c-bc7d-422b-9d29-b9ee33a75d5f")
+	)
+	(pad "22" smd rect
+		(at 3.6 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "181f19ed-0d4d-448c-842e-760f708b0361")
+	)
+	(pad "23" smd rect
+		(at 4 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "811f9b3d-93df-4980-9fdb-58579855117f")
+	)
+	(pad "24" smd rect
+		(at 4.4 -4.16)
+		(size 0.23 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.05)
+		(uuid "76252ba0-4730-4845-8ab6-933a543fbafb")
+	)
+	(embedded_fonts no)
+)
