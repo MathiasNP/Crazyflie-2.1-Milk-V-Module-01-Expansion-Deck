@@ -20,6 +20,10 @@ This project designs a PCB expansion deck for Bitcraze Crazyflie 2.1 including a
 	- Minimum 4GB RAM, 8GB recommended
 - **Jumper cables:** For Crazyflie-to-MilkV connection
 
+### Desclaimer
+SD/MMC flashing is not possible due to connection problems to the Duo Module. Surmised to be due to the usage of an EMI-Filter with too high series resistance
+Recommended to either use the schematic design from the original EVB schematics and/or remove the EMI-Filter
+
 ---
 ## File Reference
 - **`BT-MV Duo 01 Deck/`**: Project root folder.
